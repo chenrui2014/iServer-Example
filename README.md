@@ -11,7 +11,7 @@ iServer_Example包含一个扩展iServer REST资源的maven工程，该示例工程扩展一个简单算
 ```
 <repositories>
     <repository>
-      <id>ispeco</id>
+      <id>supermap</id>
       <url>http://maven.supermap.io/</url>
     </repository>
 </repositories>
